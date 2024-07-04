@@ -1,0 +1,32 @@
+body
+{
+    
+    background-image: url(REMI--images/bg.png);
+    
+}
+h1{
+    text-align: center;
+    text-decoration: aqua;
+    text-color: rgb(241, 40, 5);
+}
+.glyphicon{
+    color: rgb(241, 245, 8);
+}
+.col{
+    color: rgb(243, 199, 6);
+}
+img{
+    background-color: chartreuse;
+
+}
+.price{
+    background-color: rgba(235, 46, 188, 0.74);
+    position: absolute;
+    top: 13px;
+    left: 76%;
+    padding: 6px;
+}
+.btn{
+    background-color: rgb(108, 229, 238);  
+    width: 100%;
+}
